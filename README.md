@@ -1,5 +1,5 @@
 # XL-MIMO-sUCA-Loc
-Codes and Slides for conference paper "Low-Complexity Near-Field Localization with XL-MIMO Sectored Uniform Circular Arrays", accepted by IEEE GLOBECOM'24, Cape Town, South Africa.
+Codes and Slides for conference paper "Low-Complexity Near-Field Localization with XL-MIMO Sectored Uniform Circular Arrays", accepted to IEEE GLOBECOM'24, Cape Town, South Africa.
 
 
 ## Cite the Paper

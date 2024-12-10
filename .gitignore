@@ -1,2 +1,17 @@
 
 .DS_Store
+*.bbl
+*.aux
+*.bcf
+*.blg
+*.log
+*.nav
+*.out
+*.xml
+*.snm
+*.gz
+*.toc
+/slides/assets/*
+*.bib
+*.tex
+slides/script.md
